@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ayubkhon Abdullaev  
+# 👋 Hi, I'm Ayub
 
 🚀 Aspiring **Python Developer** on the path to AI, Robotics, and Automotive Software.  
 💡 Passionate about building tools, solving problems, and learning continuously.  
