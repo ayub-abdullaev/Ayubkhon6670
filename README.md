@@ -17,9 +17,7 @@
 *(More coming soon – follow my journey)*  
 
 - 🎮 **Guess the Number** → Simple CLI game using Python loops & conditionals  
-- 🌍 **API Fun** → Fetching random facts & crypto prices with Python’s `requests`  
-- 🔢 **Base Converter** → Convert numbers between decimal, binary, and hex  
-- ⏳ **Countdown Timer** → CLI app with time module  
+ 
 
 ---
 
