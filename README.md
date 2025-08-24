@@ -34,7 +34,7 @@
 ---
 
 ## 📫 Connect with Me
-- ✉️ Email: [abdullaevayubkhon6670@gmail.com](mailto:abdullaevayubkhon6670@gmail.com)  
+- ✉️ Email: [ayyubcoder@gmail.com](mailto:ayyubcoder@gmail.com)  
 - 💼 LinkedIn:  
 - 🐙 GitHub: [Ayubkhon6670](https://github.com/Ayubkhon6670)  
 
